@@ -119,4 +119,16 @@ Student\_Performance\_Analyzer/
 │   └── student\_analysis.py
 
 └── README.md
+## 📊 Visualizations
 
+### Average Marks by Subject
+
+![Average Marks](images/average_marks.png)
+
+### Grade Distribution
+
+![Grade Distribution](images/grade_distribution.png)
+
+### Subject Correlation
+
+![Subject Correlation](images/subject_correlation.png)
